@@ -16,7 +16,7 @@
             <ul>
                 <li><a href="#sobre">Sobre</a></li>
                 <li><a href="#comparador">Comparador</a></li>
-                <li><a href="#créditos">Créditos</a></li>
+                <li><a href="#creditos">Créditos</a></li>
             </ul>
         </nav>
     </header>
@@ -48,16 +48,20 @@
                         <h2 style="color: #1e293b; font-size: 30px;">Opção 1: </h2>  
                         <br>                      <!-- <label for="opcoes">Lugar</label> -->
                         <select id="area" name="area">
-                        <option value="2000004" selected>ADMINISTRAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000004)</strong></option>
-                        <option value="2000026" selected>ENGENHARIA DE COMPUTAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000026)</strong></option>
-                        <option value="2000056" selected>MEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000056)</strong></option>
-                        <option value="10320810" selected>CIÊNCIAS E TECNOLOGIA <strong style="color: rgba(0, 0, 0, 0.2);">(10320810)</strong></option>                        
-                        
+                            <option value="2000004" selected>ADMINISTRAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000004)</strong></option>
+                            <option value="2000026" selected>ENGENHARIA DE COMPUTAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000026)</strong></option>
+                            <option value="2000056" selected>MEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000056)</strong></option>
+                            <option value="10320810" selected>CIÊNCIAS E TECNOLOGIA <strong style="color: rgba(0, 0, 0, 0.2);">(10320810)</strong></option>   
+                            <option value="2000011" selected>CIÊNCIAS CONTÁBEIS <strong style="color: rgba(0, 0, 0, 0.2);">(2000011)</strong></option>   
+                            <option value="2000122" selected>BIOMEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000122)</strong></option>   
+                            <option value="2000039" selected>FARMÁCIA <strong style="color: rgba(0, 0, 0, 0.2);">(2000039)</strong></option>                        
+                            <option value="2000041" selected>FÍSICA <strong style="color: rgba(0, 0, 0, 0.2);">(2000041)</strong></option>        
                         </select>
                     </div>
-                    <p id="result11">HOMENS:</p>
-                    <p id="result12">MULHERES:</p>
+                    <p id="result11">HOMENS: ---</p>
+                    <p id="result12">MULHERES: ---</p>
                     <canvas id="grafico1"></canvas>
+                    <p id="departamento1">Departamento do curso: ---</p> 
                 </section>
 
                 <section id="container-2">
@@ -65,16 +69,20 @@
                         <h2 style="color: #1e293b; font-size: 30px;">Opção 2: </h2>  
                         <br>  
                         <select id="area2" name="area2">
-                        <option value="2000004" selected>ADMINISTRAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000004)</strong></option>
-                        <option value="2000026" selected>ENGENHARIA DE COMPUTAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000026)</strong></option>
-                        <option value="2000056" selected>MEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000056)</strong></option>
-                        <option value="10320810" selected>CIÊNCIAS E TECNOLOGIA <strong style="color: rgba(0, 0, 0, 0.2);">(10320810)</strong></option>                        
-                        
+                            <option value="2000004" selected>ADMINISTRAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000004)</strong></option>
+                            <option value="2000026" selected>ENGENHARIA DE COMPUTAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000026)</strong></option>
+                            <option value="2000056" selected>MEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000056)</strong></option>
+                            <option value="10320810" selected>CIÊNCIAS E TECNOLOGIA <strong style="color: rgba(0, 0, 0, 0.2);">(10320810)</strong></option>   
+                            <option value="2000011" selected>CIÊNCIAS CONTÁBEIS <strong style="color: rgba(0, 0, 0, 0.2);">(2000011)</strong></option>   
+                            <option value="2000122" selected>BIOMEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000122)</strong></option>   
+                            <option value="2000039" selected>FARMÁCIA <strong style="color: rgba(0, 0, 0, 0.2);">(2000039)</strong></option>                        
+                            <option value="2000041" selected>FÍSICA <strong style="color: rgba(0, 0, 0, 0.2);">(2000041)</strong></option>   
                         </select>
                     </div> 
-                    <p id="result21">HOMENS:</p>
-                    <p id="result22">MULHERES:</p>
+                    <p id="result21">HOMENS: ---</p>
+                    <p id="result22">MULHERES: ---</p>
                     <canvas id="grafico2"></canvas>
+                    <p id="departamento2">Departamento do curso: ---</p> 
                 </section>
 
                 <button id="comparar">Comparar</button>
@@ -85,8 +93,9 @@
     </main>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="app.js"></script>
-    <footer>
+    <footer id="creditos">
         <p>&copy; 2026 Kauê Marques Jales</p>
+        <!-- Aura -->
     </footer>
 </body>
 </html>

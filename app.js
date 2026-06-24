@@ -6,6 +6,9 @@ const r22 = document.getElementById("result22");
 const grafico1 = document.getElementById("grafico1").getContext('2d');
 const grafico2 = document.getElementById("grafico2").getContext('2d');
 
+const dep1 = document.getElementById("departamento1")
+const dep2 = document.getElementById("departamento2")
+
 let g1 = null, g2 = null;
 
 let dados = [];
@@ -46,10 +49,13 @@ document.getElementById('comparar').addEventListener('click', async () => {
                 }]
             }
         });
+    
+        dep1.textContent = `Departamento do curso: ${curso1.nomeUnid}`;
     }
     else {
         r11.textContent =  `HOMENS: ----`
         r12.textContent =  `MULHERES: ----`
+        dep1.textContent = `Departamento do curso: ----`;
     }
 
     if (curso2){
@@ -72,10 +78,13 @@ document.getElementById('comparar').addEventListener('click', async () => {
                 }]
             }
         });
+
+        dep2.textContent = `Departamento do curso: ${curso2.nomeUnid}`;
     }
     else {
         r21.textContent =  `HOMENS: ----`
         r22.textContent =  `MULHERES: ----`
+        dep2.textContent = `Departamento do curso: ----`;
     }
 
 });
