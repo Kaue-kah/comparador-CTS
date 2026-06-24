@@ -50,12 +50,12 @@ document.getElementById('comparar').addEventListener('click', async () => {
             }
         });
     
-        dep1.textContent = `Departamento do curso: ${curso1.nomeUnid}`;
+        dep1.textContent = `Unidade Gestora:  ${curso1.nomeUnid}`;
     }
     else {
         r11.textContent =  `HOMENS: ----`
         r12.textContent =  `MULHERES: ----`
-        dep1.textContent = `Departamento do curso: ----`;
+        dep1.textContent = `Unidade Gestora:  ----`;
     }
 
     if (curso2){
@@ -79,12 +79,12 @@ document.getElementById('comparar').addEventListener('click', async () => {
             }
         });
 
-        dep2.textContent = `Departamento do curso: ${curso2.nomeUnid}`;
+        dep2.textContent = `Unidade Gestora:  ${curso2.nomeUnid}`;
     }
     else {
         r21.textContent =  `HOMENS: ----`
         r22.textContent =  `MULHERES: ----`
-        dep2.textContent = `Departamento do curso: ----`;
+        dep2.textContent = `Unidade Gestora: ----`;
     }
 
 });
