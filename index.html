@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparador - CTS</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <header>
+        <div style="display: flex; align-items: center; ">
+            <img src="assets/img/logo.png" alt="" width="20px" height="20px" style="margin-right: 10px;">
+            <h2>Comparador de Dados - CTS</h2>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#comparador">Comparador</a></li>
+                <li><a href="#créditos">Créditos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <br><br>
+    
+    <main>
+        <section id="apresentacao" >   
+            <div id="sobre">
+                <div>
+                    <h1>SOBRE</h1>
+                    <p>
+                        O Comparador CTS permite comparar a distribuição de gênero entre os ingressantes dos diferentes cursos da Universidade Federal do Rio Grande do Norte (UFRN). Essa aplicação surge da necessidade de contabilizar a distribuição de gênero em cursos da UFRN, cujo acesso é dificuldade pelos carência de meios disponibilizados pela Universidade.
+                    </p>
+                </div>        
+                <img src="assets/img/img.png" alt="" width="300px" height="300px" style="border-radius: 20px;">
+            </div>
+        </section>
+
+        <br><br>
+
+        <section id="comparador">
+            <h3>Comparador</h3>
+            <br><br><br><br>
+            <section id="selecionar-restricoes">
+                
+                <section id="container-1">
+                    <div class="item-comparar">
+                        <h2 style="color: #1e293b; font-size: 30px;">Opção 1: </h2>  
+                        <br>                      <!-- <label for="opcoes">Lugar</label> -->
+                        <select id="area" name="area">
+                        <option value="2000004" selected>ADMINISTRAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000004)</strong></option>
+                        <option value="2000026" selected>ENGENHARIA DE COMPUTAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000026)</strong></option>
+                        <option value="2000056" selected>MEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000056)</strong></option>
+                        <option value="10320810" selected>CIÊNCIAS E TECNOLOGIA <strong style="color: rgba(0, 0, 0, 0.2);">(10320810)</strong></option>                        
+                        
+                        </select>
+                    </div>
+                    <p id="result11">HOMENS:</p>
+                    <p id="result12">MULHERES:</p>
+                    <canvas id="grafico1"></canvas>
+                </section>
+
+                <section id="container-2">
+                    <div class="item-comparar">
+                        <h2 style="color: #1e293b; font-size: 30px;">Opção 2: </h2>  
+                        <br>  
+                        <select id="area2" name="area2">
+                        <option value="2000004" selected>ADMINISTRAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000004)</strong></option>
+                        <option value="2000026" selected>ENGENHARIA DE COMPUTAÇÃO <strong style="color: rgba(0, 0, 0, 0.2);">(2000026)</strong></option>
+                        <option value="2000056" selected>MEDICINA <strong style="color: rgba(0, 0, 0, 0.2);">(2000056)</strong></option>
+                        <option value="10320810" selected>CIÊNCIAS E TECNOLOGIA <strong style="color: rgba(0, 0, 0, 0.2);">(10320810)</strong></option>                        
+                        
+                        </select>
+                    </div> 
+                    <p id="result21">HOMENS:</p>
+                    <p id="result22">MULHERES:</p>
+                    <canvas id="grafico2"></canvas>
+                </section>
+
+                <button id="comparar">Comparar</button>
+            
+            </section>
+        </section>
+
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js"></script>
+    <footer>
+        <p>&copy; 2026 Kauê Marques Jales</p>
+    </footer>
+</body>
+</html>

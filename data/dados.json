@@ -1,0 +1,2882 @@
+﻿[
+  {
+    "codigo": "",
+    "nome": "",
+    "nomeUnid": "",
+    "idUnid": "",
+    "qtdF": 430,
+    "qtdM": 304,
+    "qtdTotal": 734
+  },
+  {
+    "codigo": "2000002",
+    "nome": "ADMINISTRAÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 99,
+    "qtdM": 90,
+    "qtdTotal": 189
+  },
+  {
+    "codigo": "2000004",
+    "nome": "ADMINISTRAÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 22,
+    "qtdM": 16,
+    "qtdTotal": 38
+  },
+  {
+    "codigo": "149654895",
+    "nome": "ADMINISTRAÇÃO PÚBLICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 25,
+    "qtdM": 17,
+    "qtdTotal": 42
+  },
+  {
+    "codigo": "94598200",
+    "nome": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 1,
+    "qtdM": 32,
+    "qtdTotal": 33
+  },
+  {
+    "codigo": "184446888",
+    "nome": "ARQUEOLOGIA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 4,
+    "qtdM": 5,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "2000005",
+    "nome": "ARQUITETURA E URBANISMO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 26,
+    "qtdM": 11,
+    "qtdTotal": 37
+  },
+  {
+    "codigo": "2000123",
+    "nome": "ARTES VISUAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 27,
+    "qtdM": 18,
+    "qtdTotal": 45
+  },
+  {
+    "codigo": "178733979",
+    "nome": "BACHARELADO EM INTELIGÊNCIA ARTIFICIAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 6,
+    "qtdM": 34,
+    "qtdTotal": 40
+  },
+  {
+    "codigo": "149717829",
+    "nome": "BACHARELADO INTERDISCIPLINAR EM HUMANIDADES",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 21,
+    "qtdM": 12,
+    "qtdTotal": 33
+  },
+  {
+    "codigo": "2000006",
+    "nome": "BIBLIOTECONOMIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 41,
+    "qtdM": 17,
+    "qtdTotal": 58
+  },
+  {
+    "codigo": "2000122",
+    "nome": "BIOMEDICINA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 49,
+    "qtdM": 17,
+    "qtdTotal": 66
+  },
+  {
+    "codigo": "2000013",
+    "nome": "CIÊNCIA DA COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 6,
+    "qtdM": 49,
+    "qtdTotal": 55
+  },
+  {
+    "codigo": "185728896",
+    "nome": "CIÊNCIA DE DADOS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 7,
+    "qtdM": 18,
+    "qtdTotal": 25
+  },
+  {
+    "codigo": "6633741",
+    "nome": "CIÊNCIAS ATUARIAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 12,
+    "qtdM": 19,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "111635035",
+    "nome": "CIÊNCIAS BIOLÓGICAS",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 52,
+    "qtdM": 49,
+    "qtdTotal": 101
+  },
+  {
+    "codigo": "2000009",
+    "nome": "CIÊNCIAS BIOLÓGICAS",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 28,
+    "qtdM": 13,
+    "qtdTotal": 41
+  },
+  {
+    "codigo": "2000011",
+    "nome": "CIÊNCIAS CONTÁBEIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 76,
+    "qtdM": 102,
+    "qtdTotal": 178
+  },
+  {
+    "codigo": "2000012",
+    "nome": "CIÊNCIAS CONTÁBEIS",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 22,
+    "qtdM": 29,
+    "qtdTotal": 51
+  },
+  {
+    "codigo": "10320810",
+    "nome": "CIÊNCIAS E TECNOLOGIA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 172,
+    "qtdM": 616,
+    "qtdTotal": 788
+  },
+  {
+    "codigo": "2000014",
+    "nome": "CIÊNCIAS ECONÔMICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 27,
+    "qtdM": 74,
+    "qtdTotal": 101
+  },
+  {
+    "codigo": "111635038",
+    "nome": "CIÊNCIAS SOCIAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 25,
+    "qtdM": 28,
+    "qtdTotal": 53
+  },
+  {
+    "codigo": "2000015",
+    "nome": "CIÊNCIAS SOCIAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 37,
+    "qtdM": 14,
+    "qtdTotal": 51
+  },
+  {
+    "codigo": "119512361",
+    "nome": "COMUNICAÇÃO SOCIAL - AUDIOVISUAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 36,
+    "qtdM": 46,
+    "qtdTotal": 82
+  },
+  {
+    "codigo": "118834827",
+    "nome": "COMUNICAÇÃO SOCIAL- PUBLICIDADE E PROPAGANDA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 49,
+    "qtdM": 30,
+    "qtdTotal": 79
+  },
+  {
+    "codigo": "112718836",
+    "nome": "CURSO DE LÍNGUA BRASILEIRA DE SINAIS (LIBRAS)",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 19,
+    "qtdM": 9,
+    "qtdTotal": 28
+  },
+  {
+    "codigo": "86980317",
+    "nome": "CURSO DE LÍNGUA ESPANHOLA - BÁSICO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 61,
+    "qtdM": 28,
+    "qtdTotal": 89
+  },
+  {
+    "codigo": "86979859",
+    "nome": "CURSO DE LÍNGUA FRANCESA \u0096 BÁSICO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 47,
+    "qtdM": 43,
+    "qtdTotal": 90
+  },
+  {
+    "codigo": "119249870",
+    "nome": "CURSO DE LÍNGUA GREGA CLÁSSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 2,
+    "qtdM": 5,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "86979169",
+    "nome": "CURSO DE LÍNGUA INGLESA \u0096 BÁSICO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 122,
+    "qtdM": 90,
+    "qtdTotal": 212
+  },
+  {
+    "codigo": "119248706",
+    "nome": "CURSO DE LÍNGUA LATINA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 4,
+    "qtdM": 14,
+    "qtdTotal": 18
+  },
+  {
+    "codigo": "176715640",
+    "nome": "CURSO DE PORTUGUÊS COMO LÍNGUA DE ACOLHIMENTO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 3,
+    "qtdM": 6,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "86980524",
+    "nome": "CURSO DE PORTUGUÊS LÍNGUA ESTRANGEIRA - BÁSICO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 7,
+    "qtdM": 16,
+    "qtdTotal": 23
+  },
+  {
+    "codigo": "134965261",
+    "nome": "CURSO PREPARATÓRIO CELPE-BRAS [PCB]",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 14,
+    "qtdM": 10,
+    "qtdTotal": 24
+  },
+  {
+    "codigo": "96054058",
+    "nome": "CURSO TÉCNICO DA METRÓPOLE DIGITAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 105,
+    "qtdM": 456,
+    "qtdTotal": 561
+  },
+  {
+    "codigo": "1086001",
+    "nome": "CURSO TÉCNICO EM ENFERMAGEM",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 47,
+    "qtdM": 26,
+    "qtdTotal": 73
+  },
+  {
+    "codigo": "185911095",
+    "nome": "CURSO TÉCNICO EM TERAPIAS HOLÍSTICAS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 34,
+    "qtdM": 11,
+    "qtdTotal": 45
+  },
+  {
+    "codigo": "7264330",
+    "nome": "DANÇA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 28,
+    "qtdM": 9,
+    "qtdTotal": 37
+  },
+  {
+    "codigo": "6992521",
+    "nome": "DESIGN",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 25,
+    "qtdM": 16,
+    "qtdTotal": 41
+  },
+  {
+    "codigo": "2000018",
+    "nome": "DIREITO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 107,
+    "qtdM": 98,
+    "qtdTotal": 205
+  },
+  {
+    "codigo": "2000019",
+    "nome": "DIREITO",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 25,
+    "qtdM": 30,
+    "qtdTotal": 55
+  },
+  {
+    "codigo": "315765",
+    "nome": "DOUTORADO EM ADMINISTRAÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 3,
+    "qtdM": 5,
+    "qtdTotal": 8
+  },
+  {
+    "codigo": "108227148",
+    "nome": "DOUTORADO EM ANTROPOLOGIA SOCIAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 8,
+    "qtdM": 4,
+    "qtdTotal": 12
+  },
+  {
+    "codigo": "315767",
+    "nome": "DOUTORADO EM ARQUITETURA E URBANISMO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 6,
+    "qtdM": 4,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "177608894",
+    "nome": "DOUTORADO EM ARTES CÊNICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 12,
+    "qtdM": 12,
+    "qtdTotal": 24
+  },
+  {
+    "codigo": "115845494",
+    "nome": "DOUTORADO EM BIOINFORMÁTICA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 6,
+    "qtdM": 2,
+    "qtdTotal": 8
+  },
+  {
+    "codigo": "178355478",
+    "nome": "DOUTORADO EM BIOLOGIA PARASITÁRIA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 6,
+    "qtdM": 5,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "9285380",
+    "nome": "DOUTORADO EM BIOQUÍMICA E BIOLOGIA MOLECULAR",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "315788",
+    "nome": "DOUTORADO EM BIOTECNOLOGIA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 3,
+    "qtdM": 1,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "315743",
+    "nome": "DOUTORADO EM CIÊNCIA DA COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 2,
+    "qtdM": 7,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "315771",
+    "nome": "DOUTORADO EM CIÊNCIA E ENGENHARIA DE MATERIAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 3,
+    "qtdM": 4,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "17975012",
+    "nome": "DOUTORADO EM CIÊNCIAS CLIMÁTICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 2,
+    "qtdM": 4,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "315774",
+    "nome": "DOUTORADO EM CIÊNCIAS DA SAÚDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 12,
+    "qtdM": 12,
+    "qtdTotal": 24
+  },
+  {
+    "codigo": "110710810",
+    "nome": "DOUTORADO EM CIÊNCIAS FARMACÊUTICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 4,
+    "qtdM": 3,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "168173029",
+    "nome": "DOUTORADO EM CIÊNCIAS FISIOLÓGICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 3,
+    "qtdM": 1,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "315777",
+    "nome": "DOUTORADO EM CIÊNCIAS SOCIAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 2,
+    "qtdM": 5,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "132958656",
+    "nome": "DOUTORADO EM DEMOGRAFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 11,
+    "qtdM": 18,
+    "qtdTotal": 29
+  },
+  {
+    "codigo": "9300591",
+    "nome": "DOUTORADO EM DESENVOLVIMENTO E INOVAÇÃO TECNOLÓGICA EM MEDICAMENTOS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 3,
+    "qtdM": 0,
+    "qtdTotal": 3
+  },
+  {
+    "codigo": "19018260",
+    "nome": "DOUTORADO EM DESENVOLVIMENTO E MEIO AMBIENTE",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 4,
+    "qtdM": 5,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "9300592",
+    "nome": "DOUTORADO EM ECOLOGIA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 6,
+    "qtdM": 3,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "170068950",
+    "nome": "DOUTORADO EM ECONOMIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 7,
+    "qtdM": 3,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "315746",
+    "nome": "DOUTORADO EM EDUCAÇÃO",
+    "nomeUnid": "CENTRO DE EDUCAÇÃO",
+    "idUnid": "5965",
+    "qtdF": 27,
+    "qtdM": 21,
+    "qtdTotal": 48
+  },
+  {
+    "codigo": "170670143",
+    "nome": "DOUTORADO EM EDUCAÇÃO FISICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 5,
+    "qtdM": 4,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "50903134",
+    "nome": "DOUTORADO EM ENFERMAGEM NA ATENÇÃO À SAÚDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 15,
+    "qtdM": 2,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "178227870",
+    "nome": "DOUTORADO EM ENGENHARIA CIVIL E AMBIENTAL",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 3,
+    "qtdM": 4,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "315750",
+    "nome": "DOUTORADO EM ENGENHARIA ELÉTRICA E DE COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 1,
+    "qtdM": 14,
+    "qtdTotal": 15
+  },
+  {
+    "codigo": "315752",
+    "nome": "DOUTORADO EM ENGENHARIA MECÂNICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 2,
+    "qtdM": 5,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "315754",
+    "nome": "DOUTORADO EM ENGENHARIA QUÍMICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 5,
+    "qtdM": 1,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "315758",
+    "nome": "DOUTORADO EM ESTUDOS DA LINGUAGEM",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 14,
+    "qtdM": 13,
+    "qtdTotal": 27
+  },
+  {
+    "codigo": "115789633",
+    "nome": "DOUTORADO EM ESTUDOS DA MÍDIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 7,
+    "qtdM": 5,
+    "qtdTotal": 12
+  },
+  {
+    "codigo": "132958781",
+    "nome": "DOUTORADO EM ESTUDOS URBANOS E REGIONAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 3,
+    "qtdM": 4,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "315728",
+    "nome": "DOUTORADO EM FÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 2,
+    "qtdM": 5,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "95726200",
+    "nome": "DOUTORADO EM FISIOTERAPIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 25,
+    "qtdM": 13,
+    "qtdTotal": 38
+  },
+  {
+    "codigo": "171468995",
+    "nome": "DOUTORADO EM FONOAUDIOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 10,
+    "qtdM": 0,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "315763",
+    "nome": "DOUTORADO EM GEODINÂMICA E GEOFÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 2,
+    "qtdM": 1,
+    "qtdTotal": 3
+  },
+  {
+    "codigo": "95953799",
+    "nome": "DOUTORADO EM GEOGRAFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 9,
+    "qtdM": 10,
+    "qtdTotal": 19
+  },
+  {
+    "codigo": "178227782",
+    "nome": "DOUTORADO EM GEOGRAFIA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 5,
+    "qtdM": 4,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "177612850",
+    "nome": "DOUTORADO EM GESTÃO E INOVAÇÃO EM SAÚDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 6,
+    "qtdM": 4,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "133179605",
+    "nome": "DOUTORADO EM HISTÓRIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 4,
+    "qtdM": 9,
+    "qtdTotal": 13
+  },
+  {
+    "codigo": "17565631",
+    "nome": "DOUTORADO EM NEUROCIÊNCIAS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 1,
+    "qtdM": 0,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "171307246",
+    "nome": "DOUTORADO EM NUTRIÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 8,
+    "qtdM": 3,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "17275730",
+    "nome": "DOUTORADO EM PSICOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 12,
+    "qtdM": 5,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "315740",
+    "nome": "DOUTORADO EM QUÍMICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 3,
+    "qtdM": 3,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "117229950",
+    "nome": "DOUTORADO EM SERVIÇO SOCIAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 7,
+    "qtdM": 0,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "96146345",
+    "nome": "DOUTORADO EM SISTEMÁTICA E EVOLUÇÃO",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 5,
+    "qtdM": 4,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "104910434",
+    "nome": "DOUTORADO EM TURISMO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 2,
+    "qtdM": 10,
+    "qtdTotal": 12
+  },
+  {
+    "codigo": "177835234",
+    "nome": "DOUTORADO PROFISSIONAL EM ENSINO DE HISTÓRIA - PROFHISTORIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 1,
+    "qtdM": 3,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "172269300",
+    "nome": "DOUTORADO PROFISSIONAL EM INOVAÇÃO EM TECNOLOGIAS EDUCACIONAIS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 7,
+    "qtdM": 7,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "147308656",
+    "nome": "DOUTORADO PROFISSIONAL EM SAÚDE DA FAMÍLIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 7,
+    "qtdM": 7,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "177385128",
+    "nome": "DOUTORADO PROFISSIONAL EM TECNOLOGIA DA INFORMAÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 1,
+    "qtdM": 5,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "2000121",
+    "nome": "ECOLOGIA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 49,
+    "qtdM": 35,
+    "qtdTotal": 84
+  },
+  {
+    "codigo": "182472899",
+    "nome": "EDUCAÇÃO DO CAMPO",
+    "nomeUnid": "CENTRO DE EDUCAÇÃO",
+    "idUnid": "5965",
+    "qtdF": 30,
+    "qtdM": 15,
+    "qtdTotal": 45
+  },
+  {
+    "codigo": "111635041",
+    "nome": "EDUCAÇÃO FÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 9,
+    "qtdM": 35,
+    "qtdTotal": 44
+  },
+  {
+    "codigo": "2000022",
+    "nome": "EDUCAÇÃO FÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 6,
+    "qtdM": 34,
+    "qtdTotal": 40
+  },
+  {
+    "codigo": "13027790",
+    "nome": "ENFERMAGEM",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 28,
+    "qtdM": 7,
+    "qtdTotal": 35
+  },
+  {
+    "codigo": "2000023",
+    "nome": "ENFERMAGEM",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 80,
+    "qtdM": 20,
+    "qtdTotal": 100
+  },
+  {
+    "codigo": "2576632",
+    "nome": "ENGENHARIA AGRONÔMICA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 9,
+    "qtdM": 14,
+    "qtdTotal": 23
+  },
+  {
+    "codigo": "85322571",
+    "nome": "ENGENHARIA AMBIENTAL",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 25,
+    "qtdM": 33,
+    "qtdTotal": 58
+  },
+  {
+    "codigo": "85341136",
+    "nome": "ENGENHARIA BIOMÉDICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 19,
+    "qtdM": 21,
+    "qtdTotal": 40
+  },
+  {
+    "codigo": "2000025",
+    "nome": "ENGENHARIA CIVIL",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 38,
+    "qtdM": 62,
+    "qtdTotal": 100
+  },
+  {
+    "codigo": "2000150",
+    "nome": "ENGENHARIA DE ALIMENTOS",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 15,
+    "qtdM": 18,
+    "qtdTotal": 33
+  },
+  {
+    "codigo": "2576623",
+    "nome": "ENGENHARIA DE AQUICULTURA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 14,
+    "qtdM": 23,
+    "qtdTotal": 37
+  },
+  {
+    "codigo": "181657650",
+    "nome": "ENGENHARIA DE COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 5,
+    "qtdM": 26,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "2000026",
+    "nome": "ENGENHARIA DE COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 11,
+    "qtdM": 49,
+    "qtdTotal": 60
+  },
+  {
+    "codigo": "178696492",
+    "nome": "ENGENHARIA DE ENERGIA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 14,
+    "qtdM": 36,
+    "qtdTotal": 50
+  },
+  {
+    "codigo": "2000027",
+    "nome": "ENGENHARIA DE MATERIAIS",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 16,
+    "qtdM": 33,
+    "qtdTotal": 49
+  },
+  {
+    "codigo": "2000029",
+    "nome": "ENGENHARIA DE PRODUÇÃO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 37,
+    "qtdM": 54,
+    "qtdTotal": 91
+  },
+  {
+    "codigo": "150738818",
+    "nome": "ENGENHARIA DE PRODUÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 7,
+    "qtdM": 20,
+    "qtdTotal": 27
+  },
+  {
+    "codigo": "17848940",
+    "nome": "ENGENHARIA DE SOFTWARE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 7,
+    "qtdM": 23,
+    "qtdTotal": 30
+  },
+  {
+    "codigo": "85322080",
+    "nome": "ENGENHARIA DE TELECOMUNICAÇÕES",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 3,
+    "qtdM": 26,
+    "qtdTotal": 29
+  },
+  {
+    "codigo": "2000030",
+    "nome": "ENGENHARIA ELÉTRICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 17,
+    "qtdM": 72,
+    "qtdTotal": 89
+  },
+  {
+    "codigo": "8068230",
+    "nome": "ENGENHARIA FLORESTAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 17,
+    "qtdM": 15,
+    "qtdTotal": 32
+  },
+  {
+    "codigo": "2000031",
+    "nome": "ENGENHARIA MECÂNICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 5,
+    "qtdM": 55,
+    "qtdTotal": 60
+  },
+  {
+    "codigo": "85437055",
+    "nome": "ENGENHARIA MECATRÔNICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 11,
+    "qtdM": 35,
+    "qtdTotal": 46
+  },
+  {
+    "codigo": "2000032",
+    "nome": "ENGENHARIA QUÍMICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 32,
+    "qtdM": 32,
+    "qtdTotal": 64
+  },
+  {
+    "codigo": "2000033",
+    "nome": "ENGENHARIA TÊXTIL",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 42,
+    "qtdM": 22,
+    "qtdTotal": 64
+  },
+  {
+    "codigo": "185747508",
+    "nome": "ESPECIALIZAÇÃO EM ALFABETIZAÇÃO + NEUROCIÊNCIAS NA EDUCAÇÃO INTEGRAL",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 244,
+    "qtdM": 131,
+    "qtdTotal": 375
+  },
+  {
+    "codigo": "184622307",
+    "nome": "ESPECIALIZAÇÃO EM ENGENHARIA DE OPERAÇÕES E GESTÃO DE ATIVOS",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 5,
+    "qtdM": 25,
+    "qtdTotal": 30
+  },
+  {
+    "codigo": "185509895",
+    "nome": "ESPECIALIZAÇÃO EM GESTÃO AMBIENTAL E INTELIGÊNCIA TERRITORIAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 29,
+    "qtdM": 20,
+    "qtdTotal": 49
+  },
+  {
+    "codigo": "159681651",
+    "nome": "ESPECIALIZAÇÃO EM LITERATURA CLÁSSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 28,
+    "qtdM": 14,
+    "qtdTotal": 42
+  },
+  {
+    "codigo": "2000034",
+    "nome": "ESTATÍSTICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 14,
+    "qtdM": 33,
+    "qtdTotal": 47
+  },
+  {
+    "codigo": "2000039",
+    "nome": "FARMÁCIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 113,
+    "qtdM": 58,
+    "qtdTotal": 171
+  },
+  {
+    "codigo": "2000040",
+    "nome": "FILOSOFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 7,
+    "qtdM": 19,
+    "qtdTotal": 26
+  },
+  {
+    "codigo": "111635047",
+    "nome": "FILOSOFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 12,
+    "qtdM": 20,
+    "qtdTotal": 32
+  },
+  {
+    "codigo": "111635050",
+    "nome": "FÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 11,
+    "qtdM": 45,
+    "qtdTotal": 56
+  },
+  {
+    "codigo": "2000041",
+    "nome": "FÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 9,
+    "qtdM": 31,
+    "qtdTotal": 40
+  },
+  {
+    "codigo": "2000042",
+    "nome": "FISIOTERAPIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 46,
+    "qtdM": 18,
+    "qtdTotal": 64
+  },
+  {
+    "codigo": "10345860",
+    "nome": "FISIOTERAPIA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 18,
+    "qtdM": 15,
+    "qtdTotal": 33
+  },
+  {
+    "codigo": "7410980",
+    "nome": "FONOAUDIOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 41,
+    "qtdM": 3,
+    "qtdTotal": 44
+  },
+  {
+    "codigo": "2936390",
+    "nome": "GEOFÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 11,
+    "qtdM": 29,
+    "qtdTotal": 40
+  },
+  {
+    "codigo": "111635053",
+    "nome": "GEOGRAFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 14,
+    "qtdM": 30,
+    "qtdTotal": 44
+  },
+  {
+    "codigo": "111635055",
+    "nome": "GEOGRAFIA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 12,
+    "qtdM": 19,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "2000043",
+    "nome": "GEOGRAFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 25,
+    "qtdM": 20,
+    "qtdTotal": 45
+  },
+  {
+    "codigo": "2000044",
+    "nome": "GEOGRAFIA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 11,
+    "qtdM": 12,
+    "qtdTotal": 23
+  },
+  {
+    "codigo": "2000045",
+    "nome": "GEOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 13,
+    "qtdM": 18,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "10426760",
+    "nome": "GESTÃO DE POLÍTICAS PÚBLICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 62,
+    "qtdM": 38,
+    "qtdTotal": 100
+  },
+  {
+    "codigo": "2000159",
+    "nome": "GESTÃO HOSPITALAR",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 63,
+    "qtdM": 14,
+    "qtdTotal": 77
+  },
+  {
+    "codigo": "111635057",
+    "nome": "HISTÓRIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 42,
+    "qtdM": 49,
+    "qtdTotal": 91
+  },
+  {
+    "codigo": "111635060",
+    "nome": "HISTÓRIA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 31,
+    "qtdM": 24,
+    "qtdTotal": 55
+  },
+  {
+    "codigo": "2000046",
+    "nome": "HISTÓRIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 9,
+    "qtdM": 14,
+    "qtdTotal": 23
+  },
+  {
+    "codigo": "118835329",
+    "nome": "JORNALISMO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 48,
+    "qtdM": 28,
+    "qtdTotal": 76
+  },
+  {
+    "codigo": "118836561",
+    "nome": "LETRAS - FRANCÊS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 16,
+    "qtdM": 10,
+    "qtdTotal": 26
+  },
+  {
+    "codigo": "118840295",
+    "nome": "LETRAS - INGLÊS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 18,
+    "qtdM": 13,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "118922026",
+    "nome": "LETRAS - LÍNGUA ESPANHOLA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 13,
+    "qtdM": 10,
+    "qtdTotal": 23
+  },
+  {
+    "codigo": "118881115",
+    "nome": "LETRAS - LÍNGUA PORTUGUESA E LITERATURAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 54,
+    "qtdM": 25,
+    "qtdTotal": 79
+  },
+  {
+    "codigo": "133175344",
+    "nome": "LETRAS - PORTUGUÊS E INGLÊS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 18,
+    "qtdM": 14,
+    "qtdTotal": 32
+  },
+  {
+    "codigo": "118880834",
+    "nome": "LETRAS- LÍNGUA ESPANHOLA E LITERATURAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 29,
+    "qtdM": 19,
+    "qtdTotal": 48
+  },
+  {
+    "codigo": "111635066",
+    "nome": "MATEMÁTICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 25,
+    "qtdM": 70,
+    "qtdTotal": 95
+  },
+  {
+    "codigo": "2000054",
+    "nome": "MATEMÁTICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 4,
+    "qtdM": 13,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "2000055",
+    "nome": "MATEMÁTICA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 11,
+    "qtdM": 19,
+    "qtdTotal": 30
+  },
+  {
+    "codigo": "2000056",
+    "nome": "MEDICINA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 53,
+    "qtdM": 70,
+    "qtdTotal": 123
+  },
+  {
+    "codigo": "104831949",
+    "nome": "MEDICINA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 27,
+    "qtdM": 24,
+    "qtdTotal": 51
+  },
+  {
+    "codigo": "315764",
+    "nome": "MESTRADO EM ADMINISTRAÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 9,
+    "qtdM": 5,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "315784",
+    "nome": "MESTRADO EM ANTROPOLOGIA SOCIAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 8,
+    "qtdM": 5,
+    "qtdTotal": 13
+  },
+  {
+    "codigo": "315766",
+    "nome": "MESTRADO EM ARQUITETURA E URBANISMO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 15,
+    "qtdM": 5,
+    "qtdTotal": 20
+  },
+  {
+    "codigo": "507420",
+    "nome": "MESTRADO EM ARTES CÊNICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 7,
+    "qtdM": 8,
+    "qtdTotal": 15
+  },
+  {
+    "codigo": "177654352",
+    "nome": "MESTRADO EM ARTES VISUAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 6,
+    "qtdM": 1,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "164535758",
+    "nome": "MESTRADO EM ASSISTÊNCIA FARMACÊUTICA EM REDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 3,
+    "qtdM": 3,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "115845492",
+    "nome": "MESTRADO EM BIOINFORMÁTICA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 2,
+    "qtdM": 4,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "98469607",
+    "nome": "MESTRADO EM BIOLOGIA ESTRUTURAL E FUNCIONAL",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 5,
+    "qtdM": 6,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "101050284",
+    "nome": "MESTRADO EM BIOLOGIA PARASITÁRIA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 8,
+    "qtdM": 3,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "315769",
+    "nome": "MESTRADO EM BIOQUÍMICA E BIOLOGIA MOLECULAR",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 7,
+    "qtdM": 1,
+    "qtdTotal": 8
+  },
+  {
+    "codigo": "315770",
+    "nome": "MESTRADO EM CIÊNCIA E ENGENHARIA DE MATERIAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 5,
+    "qtdM": 1,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "140178600",
+    "nome": "MESTRADO EM CIÊNCIAS APLICADAS À SAÚDE DA MULHER",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 16,
+    "qtdM": 4,
+    "qtdTotal": 20
+  },
+  {
+    "codigo": "91805256",
+    "nome": "MESTRADO EM CIÊNCIAS CLIMÁTICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 3,
+    "qtdM": 6,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "108416320",
+    "nome": "MESTRADO EM CIÊNCIAS CONTÁBEIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 10,
+    "qtdM": 11,
+    "qtdTotal": 21
+  },
+  {
+    "codigo": "315773",
+    "nome": "MESTRADO EM CIÊNCIAS DA SAÚDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 8,
+    "qtdM": 9,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "315775",
+    "nome": "MESTRADO EM CIÊNCIAS FARMACÊUTICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 2,
+    "qtdM": 3,
+    "qtdTotal": 5
+  },
+  {
+    "codigo": "168173013",
+    "nome": "MESTRADO EM CIÊNCIAS FISIOLÓGICAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 0,
+    "qtdM": 2,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "90156472",
+    "nome": "MESTRADO EM CIÊNCIAS FLORESTAIS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 3,
+    "qtdM": 6,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "315776",
+    "nome": "MESTRADO EM CIÊNCIAS SOCIAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 7,
+    "qtdM": 8,
+    "qtdTotal": 15
+  },
+  {
+    "codigo": "50798281",
+    "nome": "MESTRADO EM DEMOGRAFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 10,
+    "qtdM": 4,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "315781",
+    "nome": "MESTRADO EM DESENVOLVIMENTO E MEIO AMBIENTE",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 7,
+    "qtdM": 2,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "9513330",
+    "nome": "MESTRADO EM ECOLOGIA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 11,
+    "qtdM": 7,
+    "qtdTotal": 18
+  },
+  {
+    "codigo": "315744",
+    "nome": "MESTRADO EM ECONOMIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 4,
+    "qtdM": 11,
+    "qtdTotal": 15
+  },
+  {
+    "codigo": "315745",
+    "nome": "MESTRADO EM EDUCAÇÃO",
+    "nomeUnid": "CENTRO DE EDUCAÇÃO",
+    "idUnid": "5965",
+    "qtdF": 19,
+    "qtdM": 13,
+    "qtdTotal": 32
+  },
+  {
+    "codigo": "50980468",
+    "nome": "MESTRADO EM EDUCAÇÃO FÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 8,
+    "qtdM": 6,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "315747",
+    "nome": "MESTRADO EM ENFERMAGEM",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 9,
+    "qtdM": 4,
+    "qtdTotal": 13
+  },
+  {
+    "codigo": "134097165",
+    "nome": "MESTRADO EM ENGENHARIA AEROESPACIAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 3,
+    "qtdM": 7,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "157075615",
+    "nome": "MESTRADO EM ENGENHARIA CIVIL E AMBIENTAL",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 17,
+    "qtdM": 14,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "315748",
+    "nome": "MESTRADO EM ENGENHARIA DE PRODUÇÃO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 10,
+    "qtdM": 11,
+    "qtdTotal": 21
+  },
+  {
+    "codigo": "315749",
+    "nome": "MESTRADO EM ENGENHARIA ELÉTRICA E DE COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 2,
+    "qtdM": 11,
+    "qtdTotal": 13
+  },
+  {
+    "codigo": "315751",
+    "nome": "MESTRADO EM ENGENHARIA MECÂNICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 0,
+    "qtdM": 14,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "101050293",
+    "nome": "MESTRADO EM ENGENHARIA MECATRÔNICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 0,
+    "qtdM": 9,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "315753",
+    "nome": "MESTRADO EM ENGENHARIA QUÍMICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 5,
+    "qtdM": 3,
+    "qtdTotal": 8
+  },
+  {
+    "codigo": "121507754",
+    "nome": "MESTRADO EM ENGENHARIA TÊXTIL",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 4,
+    "qtdM": 6,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "182735059",
+    "nome": "MESTRADO EM ENSINO DE COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 10,
+    "qtdM": 12,
+    "qtdTotal": 22
+  },
+  {
+    "codigo": "315757",
+    "nome": "MESTRADO EM ESTUDOS DA LINGUAGEM",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 26,
+    "qtdM": 15,
+    "qtdTotal": 41
+  },
+  {
+    "codigo": "11519550",
+    "nome": "MESTRADO EM ESTUDOS DA MÍDIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 14,
+    "qtdM": 3,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "19106930",
+    "nome": "MESTRADO EM ESTUDOS URBANOS E REGIONAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 11,
+    "qtdM": 7,
+    "qtdTotal": 18
+  },
+  {
+    "codigo": "315727",
+    "nome": "MESTRADO EM FÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 1,
+    "qtdM": 5,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "315789",
+    "nome": "MESTRADO EM FISIOTERAPIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 34,
+    "qtdM": 12,
+    "qtdTotal": 46
+  },
+  {
+    "codigo": "121804772",
+    "nome": "MESTRADO EM FONOAUDIOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 14,
+    "qtdM": 6,
+    "qtdTotal": 20
+  },
+  {
+    "codigo": "315761",
+    "nome": "MESTRADO EM GEODINÂMICA E GEOFÍSICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 5,
+    "qtdM": 4,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "315731",
+    "nome": "MESTRADO EM GEOGRAFIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 5,
+    "qtdM": 10,
+    "qtdTotal": 15
+  },
+  {
+    "codigo": "134098682",
+    "nome": "MESTRADO EM GEOGRAFIA - CERES",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 5,
+    "qtdM": 5,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "315780",
+    "nome": "MESTRADO EM HISTÓRIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 8,
+    "qtdM": 8,
+    "qtdTotal": 16
+  },
+  {
+    "codigo": "133255800",
+    "nome": "MESTRADO EM HISTÓRIA / CERES",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 16,
+    "qtdM": 6,
+    "qtdTotal": 22
+  },
+  {
+    "codigo": "315785",
+    "nome": "MESTRADO EM MATEMÁTICA APLICADA E ESTATÍSTICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 6,
+    "qtdM": 8,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "17565630",
+    "nome": "MESTRADO EM NEUROCIÊNCIAS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 6,
+    "qtdM": 3,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "103197769",
+    "nome": "MESTRADO EM NUTRIÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 20,
+    "qtdM": 6,
+    "qtdTotal": 26
+  },
+  {
+    "codigo": "9300590",
+    "nome": "MESTRADO EM PRODUÇÃO ANIMAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 3,
+    "qtdM": 5,
+    "qtdTotal": 8
+  },
+  {
+    "codigo": "315735",
+    "nome": "MESTRADO EM PSICOBIOLOGIA",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 17,
+    "qtdM": 9,
+    "qtdTotal": 26
+  },
+  {
+    "codigo": "315737",
+    "nome": "MESTRADO EM PSICOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 13,
+    "qtdM": 7,
+    "qtdTotal": 20
+  },
+  {
+    "codigo": "315739",
+    "nome": "MESTRADO EM QUÍMICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 5,
+    "qtdM": 7,
+    "qtdTotal": 12
+  },
+  {
+    "codigo": "84739860",
+    "nome": "MESTRADO EM SAÚDE COLETIVA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 1,
+    "qtdM": 0,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "315741",
+    "nome": "MESTRADO EM SERVIÇO SOCIAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 8,
+    "qtdM": 2,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "315742",
+    "nome": "MESTRADO EM SISTEMAS E COMPUTAÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 5,
+    "qtdM": 19,
+    "qtdTotal": 24
+  },
+  {
+    "codigo": "50839645",
+    "nome": "MESTRADO EM SISTEMÁTICA E EVOLUÇÃO",
+    "nomeUnid": "CENTRO DE BIOCIÊNCIAS",
+    "idUnid": "440",
+    "qtdF": 5,
+    "qtdM": 6,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "507421",
+    "nome": "MESTRADO EM TURISMO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 13,
+    "qtdM": 13,
+    "qtdTotal": 26
+  },
+  {
+    "codigo": "174097013",
+    "nome": "MESTRADO PROFISSIONAL EM ADMINISTRAÇÃO PÚBLICA EM REDE NACIONAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 6,
+    "qtdM": 13,
+    "qtdTotal": 19
+  },
+  {
+    "codigo": "106146377",
+    "nome": "MESTRADO PROFISSIONAL EM ARTES - PROFARTES",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 8,
+    "qtdM": 6,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "108846991",
+    "nome": "MESTRADO PROFISSIONAL EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 12,
+    "qtdM": 8,
+    "qtdTotal": 20
+  },
+  {
+    "codigo": "140178590",
+    "nome": "MESTRADO PROFISSIONAL EM EDUCAÇÃO ESPECIAL",
+    "nomeUnid": "CENTRO DE EDUCAÇÃO",
+    "idUnid": "5965",
+    "qtdF": 21,
+    "qtdM": 3,
+    "qtdTotal": 24
+  },
+  {
+    "codigo": "117880399",
+    "nome": "MESTRADO PROFISSIONAL EM EDUCAÇÃO FÍSICA EM REDE NACIONAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 3,
+    "qtdM": 7,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "96067713",
+    "nome": "MESTRADO PROFISSIONAL EM ENERGIA ELÉTRICA",
+    "nomeUnid": "CENTRO DE TECNOLOGIA",
+    "idUnid": "445",
+    "qtdF": 4,
+    "qtdM": 18,
+    "qtdTotal": 22
+  },
+  {
+    "codigo": "114941932",
+    "nome": "MESTRADO PROFISSIONAL EM ENSINO DE FÍSICA EM REDE NACIONAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 3,
+    "qtdM": 14,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "113759737",
+    "nome": "MESTRADO PROFISSIONAL EM ENSINO DE HISTÓRIA - PROFHISTORIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 6,
+    "qtdM": 11,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "96067701",
+    "nome": "MESTRADO PROFISSIONAL EM ENSINO NA SAÚDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 9,
+    "qtdM": 1,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "108847073",
+    "nome": "MESTRADO PROFISSIONAL EM GEOGRAFIA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 6,
+    "qtdM": 5,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "97339504",
+    "nome": "MESTRADO PROFISSIONAL EM GESTÃO DE PROCESSOS INSTITUCIONAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 4,
+    "qtdM": 12,
+    "qtdTotal": 16
+  },
+  {
+    "codigo": "121508483",
+    "nome": "MESTRADO PROFISSIONAL EM GESTÃO E INOVAÇÃO EM SAÚDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 14,
+    "qtdM": 15,
+    "qtdTotal": 29
+  },
+  {
+    "codigo": "133255820",
+    "nome": "MESTRADO PROFISSIONAL EM GESTÃO, TRABALHO, EDUCAÇÃO E SAÚDE",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 19,
+    "qtdM": 8,
+    "qtdTotal": 27
+  },
+  {
+    "codigo": "121508460",
+    "nome": "MESTRADO PROFISSIONAL EM INOVAÇÃO EM TECNOLOGIAS EDUCACIONAIS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 15,
+    "qtdM": 16,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "98200045",
+    "nome": "MESTRADO PROFISSIONAL EM LETRAS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 11,
+    "qtdM": 7,
+    "qtdTotal": 18
+  },
+  {
+    "codigo": "98199604",
+    "nome": "MESTRADO PROFISSIONAL EM LETRAS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 9,
+    "qtdM": 3,
+    "qtdTotal": 12
+  },
+  {
+    "codigo": "84739892",
+    "nome": "MESTRADO PROFISSIONAL EM MATEMÁTICA EM REDE NACIONAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 1,
+    "qtdM": 16,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "121875454",
+    "nome": "MESTRADO PROFISSIONAL EM PRÁTICAS DE SAÚDE E EDUCAÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 10,
+    "qtdM": 8,
+    "qtdTotal": 18
+  },
+  {
+    "codigo": "114310260",
+    "nome": "MESTRADO PROFISSIONAL EM QUÍMICA - PROFQUI",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 2,
+    "qtdM": 12,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "88211810",
+    "nome": "MESTRADO PROFISSIONAL EM SAÚDE DA FAMÍLIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 13,
+    "qtdM": 11,
+    "qtdTotal": 24
+  },
+  {
+    "codigo": "100181629",
+    "nome": "MESTRADO PROFISSIONAL EM TECNOLOGIA DA INFORMAÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 8,
+    "qtdM": 19,
+    "qtdTotal": 27
+  },
+  {
+    "codigo": "101644626",
+    "nome": "METEOROLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 13,
+    "qtdM": 28,
+    "qtdTotal": 41
+  },
+  {
+    "codigo": "2000057",
+    "nome": "MÚSICA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 17,
+    "qtdM": 11,
+    "qtdTotal": 28
+  },
+  {
+    "codigo": "111635069",
+    "nome": "MÚSICA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 18,
+    "qtdM": 22,
+    "qtdTotal": 40
+  },
+  {
+    "codigo": "2000058",
+    "nome": "NUTRIÇÃO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 59,
+    "qtdM": 20,
+    "qtdTotal": 79
+  },
+  {
+    "codigo": "10317040",
+    "nome": "NUTRIÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 23,
+    "qtdM": 8,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "2000059",
+    "nome": "ODONTOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 51,
+    "qtdM": 25,
+    "qtdTotal": 76
+  },
+  {
+    "codigo": "2000064",
+    "nome": "PEDAGOGIA",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 41,
+    "qtdM": 7,
+    "qtdTotal": 48
+  },
+  {
+    "codigo": "2000063",
+    "nome": "PEDAGOGIA",
+    "nomeUnid": "CENTRO DE EDUCAÇÃO",
+    "idUnid": "5965",
+    "qtdF": 150,
+    "qtdM": 47,
+    "qtdTotal": 197
+  },
+  {
+    "codigo": "186537479",
+    "nome": "PRM - MEDICINA DE FAMÍLIA E COMUNIDADE - SAÚDE DO CAMPO DA FLORESTA E DAS ÁGUAS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "135035650",
+    "nome": "PROGRAMA DE RESIDÊNCIA EM ATENÇÃO PSICOSSOCIAL",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 3,
+    "qtdM": 0,
+    "qtdTotal": 3
+  },
+  {
+    "codigo": "186713134",
+    "nome": "PROGRAMA DE RESIDÊNCIA EM ENFERMAGEM OBSTÈTRICA",
+    "nomeUnid": "SUPERINTENDÊNCIA DO MEJC - EBSERH",
+    "idUnid": "8194",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "140690440",
+    "nome": "PROGRAMA DE RESIDÊNCIA MÉDICA EM CLÍNICA MÉDICA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 8,
+    "qtdM": 9,
+    "qtdTotal": 17
+  },
+  {
+    "codigo": "93262777",
+    "nome": "PROGRAMA DE RESIDÊNCIA MÉDICA EM MEDICINA DA FAMÍLIA E COMUNIDADE",
+    "nomeUnid": "HOSPITAL UNIVERSITARIO ANA BEZERRA",
+    "idUnid": "285",
+    "qtdF": 4,
+    "qtdM": 1,
+    "qtdTotal": 5
+  },
+  {
+    "codigo": "186537452",
+    "nome": "PROGRAMA DE RESIDÊNCIA MÉDICA EM MEDICINA DE FAMÍLIA E COMUNIDADE - SAÚDE MENTAL",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 1,
+    "qtdM": 1,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "93262776",
+    "nome": "PROGRAMA DE RESIDÊNCIA MÉDICA EM PEDIATRIA",
+    "nomeUnid": "HOSPITAL UNIVERSITARIO ANA BEZERRA",
+    "idUnid": "285",
+    "qtdF": 4,
+    "qtdM": 2,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "118776383",
+    "nome": "PROGRAMA DE RESIDÊNCIA MÉDICA EM REUMATOLOGIA/RESREUM/HUOL",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 0,
+    "qtdM": 1,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "173511588",
+    "nome": "PROGRAMA DE RESIDÊNCIA UNIPROFISSIONAL EM ENFERMAGEM OBSTÉTRICA",
+    "nomeUnid": "SUPERINTENDÊNCIA DO HUAB - EBSERH",
+    "idUnid": "8195",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "102160763",
+    "nome": "PSICOLOGIA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 30,
+    "qtdM": 13,
+    "qtdTotal": 43
+  },
+  {
+    "codigo": "2000066",
+    "nome": "PSICOLOGIA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 32,
+    "qtdM": 15,
+    "qtdTotal": 47
+  },
+  {
+    "codigo": "111635075",
+    "nome": "QUÍMICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 41,
+    "qtdM": 61,
+    "qtdTotal": 102
+  },
+  {
+    "codigo": "2000067",
+    "nome": "QUÍMICA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 23,
+    "qtdM": 18,
+    "qtdTotal": 41
+  },
+  {
+    "codigo": "3156200",
+    "nome": "QUÍMICA DO PETRÓLEO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS EXATAS E DA TERRA",
+    "idUnid": "439",
+    "qtdF": 13,
+    "qtdM": 18,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "170595750",
+    "nome": "RELAÇÕES INTERNACIONAIS",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 31,
+    "qtdM": 19,
+    "qtdTotal": 50
+  },
+  {
+    "codigo": "117522695",
+    "nome": "RESIDENCIA EM ANESTESIOLOGIA/RESANES/HUAB",
+    "nomeUnid": "HOSPITAL UNIVERSITARIO ANA BEZERRA",
+    "idUnid": "285",
+    "qtdF": 1,
+    "qtdM": 2,
+    "qtdTotal": 3
+  },
+  {
+    "codigo": "5036021",
+    "nome": "RESIDÊNCIA EM ASSISTÊNCIA MATERNO-INFANTIL",
+    "nomeUnid": "HOSPITAL UNIVERSITARIO ANA BEZERRA",
+    "idUnid": "285",
+    "qtdF": 10,
+    "qtdM": 4,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "5036022",
+    "nome": "RESIDÊNCIA EM ATENÇÃO À SAÚDE DA CRIANÇA",
+    "nomeUnid": "HOSPED - HOSPITAL DE PEDIATRIA",
+    "idUnid": "1424",
+    "qtdF": 8,
+    "qtdM": 3,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "116724075",
+    "nome": "RESIDÊNCIA EM ATENÇÃO BÁSICA/RESATBAS/EMCM",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 29,
+    "qtdM": 16,
+    "qtdTotal": 45
+  },
+  {
+    "codigo": "116724070",
+    "nome": "RESIDÊNCIA EM CARDIOLOGIA/RESCARD/HUOL",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 5,
+    "qtdM": 2,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "5036023",
+    "nome": "RESIDÊNCIA EM CIRURGIA E TRAUMATOLOGIA BUCO-MAXILO-FACIAIS",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 1,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "116724074",
+    "nome": "RESIDÊNCIA EM SAÚDE MATERNO-INFANTIL/RESSMI/EMCM",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 13,
+    "qtdM": 0,
+    "qtdTotal": 13
+  },
+  {
+    "codigo": "5036024",
+    "nome": "RESIDÊNCIA EM TERAPIA INTENSIVA ADULTO",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 7,
+    "qtdM": 4,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "5036025",
+    "nome": "RESIDÊNCIA EM TERAPIA INTENSIVA NEONATAL",
+    "nomeUnid": "MATERNIDADE ESCOLA JANUÁRIO CICCO",
+    "idUnid": "447",
+    "qtdF": 16,
+    "qtdM": 0,
+    "qtdTotal": 16
+  },
+  {
+    "codigo": "176336866",
+    "nome": "RESIDÊNCIA JUDICIAL 1",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 1,
+    "qtdM": 0,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "186625554",
+    "nome": "RESIDÊNCIA JUDICIAL 1 (2026)",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 27,
+    "qtdM": 22,
+    "qtdTotal": 49
+  },
+  {
+    "codigo": "5036027",
+    "nome": "RESIDÊNCIA MÉDICA EM ANESTESIOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 3,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "5036026",
+    "nome": "RESIDÊNCIA MÉDICA EM CARDIOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 3,
+    "qtdM": 1,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "5036028",
+    "nome": "RESIDÊNCIA MÉDICA EM CIRURGIA GERAL",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 6,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "116724072",
+    "nome": "RESIDÊNCIA MÉDICA EM CIRURGIA GERAL/RESCIRG/EMCM",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 0,
+    "qtdM": 3,
+    "qtdTotal": 3
+  },
+  {
+    "codigo": "5036029",
+    "nome": "RESIDÊNCIA MÉDICA EM CLÍNICA MÉDICA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 0,
+    "qtdM": 2,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "116724073",
+    "nome": "RESIDÊNCIA MÉDICA EM CLÍNICA MÉDICA/RESCLMED/EMCM",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 2,
+    "qtdM": 1,
+    "qtdTotal": 3
+  },
+  {
+    "codigo": "5036030",
+    "nome": "RESIDÊNCIA MÉDICA EM DERMATOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "157663602",
+    "nome": "RESIDÊNCIA MÉDICA EM ECOCARDIOGRAFIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 0,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "5036031",
+    "nome": "RESIDÊNCIA MÉDICA EM ENDOCRINOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "5036032",
+    "nome": "RESIDÊNCIA MÉDICA EM ENDOCRINOLOGIA PEDIÁTRICA",
+    "nomeUnid": "HOSPED - HOSPITAL DE PEDIATRIA",
+    "idUnid": "1424",
+    "qtdF": 3,
+    "qtdM": 1,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "5036033",
+    "nome": "RESIDÊNCIA MÉDICA EM ENDOSCOPIA GINECOLÓGICA",
+    "nomeUnid": "MATERNIDADE ESCOLA JANUÁRIO CICCO",
+    "idUnid": "447",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "134975375",
+    "nome": "RESIDÊNCIA MÉDICA EM GASTROENTEROLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 1,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "88337493",
+    "nome": "RESIDÊNCIA MÉDICA EM GASTROENTEROLOGIA - ENDOSCOPIA DIGESTIVA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 1,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "167991689",
+    "nome": "RESIDÊNCIA MÉDICA EM GASTROENTEROLOGIA PEDIÁTRICA",
+    "nomeUnid": "HOSPED - HOSPITAL DE PEDIATRIA",
+    "idUnid": "1424",
+    "qtdF": 1,
+    "qtdM": 0,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "110378615",
+    "nome": "RESIDÊNCIA MÉDICA EM GINECOLOGIA E OBSTETRÍCIA",
+    "nomeUnid": "HOSPITAL UNIVERSITARIO ANA BEZERRA",
+    "idUnid": "285",
+    "qtdF": 9,
+    "qtdM": 0,
+    "qtdTotal": 9
+  },
+  {
+    "codigo": "5036038",
+    "nome": "RESIDÊNCIA MÉDICA EM GINECOLOGIA E OBSTETRÍCIA",
+    "nomeUnid": "MATERNIDADE ESCOLA JANUÁRIO CICCO",
+    "idUnid": "447",
+    "qtdF": 10,
+    "qtdM": 3,
+    "qtdTotal": 13
+  },
+  {
+    "codigo": "5036039",
+    "nome": "RESIDÊNCIA MÉDICA EM INFECTOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 3,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "5036040",
+    "nome": "RESIDÊNCIA MÉDICA EM MEDICINA DE FAMÍLIA E COMUNIDADE",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 4,
+    "qtdM": 2,
+    "qtdTotal": 6
+  },
+  {
+    "codigo": "116724071",
+    "nome": "RESIDÊNCIA MÉDICA EM MEDICINA DE FAMÍLIA E COMUNIDADE/RESMMFC/EMCM",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 8,
+    "qtdM": 12,
+    "qtdTotal": 20
+  },
+  {
+    "codigo": "158680993",
+    "nome": "RESIDÊNCIA MÉDICA EM MEDICINA INTENSIVA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 3,
+    "qtdM": 1,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "140686470",
+    "nome": "RESIDÊNCIA MÉDICA EM NEFROLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 0,
+    "qtdM": 1,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "5036041",
+    "nome": "RESIDÊNCIA MÉDICA EM NEONATOLOGIA",
+    "nomeUnid": "MATERNIDADE ESCOLA JANUÁRIO CICCO",
+    "idUnid": "447",
+    "qtdF": 1,
+    "qtdM": 0,
+    "qtdTotal": 1
+  },
+  {
+    "codigo": "5036042",
+    "nome": "RESIDÊNCIA MÉDICA EM NEUROCIRURGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 0,
+    "qtdM": 2,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "5036043",
+    "nome": "RESIDÊNCIA MÉDICA EM NEUROLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 0,
+    "qtdM": 2,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "5036045",
+    "nome": "RESIDÊNCIA MÉDICA EM OFTALMOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 5,
+    "qtdM": 5,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "5036046",
+    "nome": "RESIDÊNCIA MÉDICA EM OTORRINOLARINGOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 2,
+    "qtdM": 0,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "5048042",
+    "nome": "RESIDÊNCIA MÉDICA EM PATOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 1,
+    "qtdM": 3,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "5036034",
+    "nome": "RESIDÊNCIA MÉDICA EM PEDIATRIA",
+    "nomeUnid": "HOSPED - HOSPITAL DE PEDIATRIA",
+    "idUnid": "1424",
+    "qtdF": 7,
+    "qtdM": 3,
+    "qtdTotal": 10
+  },
+  {
+    "codigo": "5036035",
+    "nome": "RESIDÊNCIA MÉDICA EM PSIQUIATRIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 3,
+    "qtdM": 1,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "5036036",
+    "nome": "RESIDÊNCIA MÉDICA EM RADIOLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 3,
+    "qtdM": 1,
+    "qtdTotal": 4
+  },
+  {
+    "codigo": "5036037",
+    "nome": "RESIDÊNCIA MÉDICA EM UROLOGIA",
+    "nomeUnid": "HOSPITAL UNIVERSITÁRIO ONOFRE LOPES",
+    "idUnid": "446",
+    "qtdF": 0,
+    "qtdM": 2,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "7252420",
+    "nome": "SAÚDE COLETIVA",
+    "nomeUnid": "CENTRO DE CIÊNCIAS DA SAÚDE",
+    "idUnid": "441",
+    "qtdF": 34,
+    "qtdM": 12,
+    "qtdTotal": 46
+  },
+  {
+    "codigo": "2000068",
+    "nome": "SERVIÇO SOCIAL",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 79,
+    "qtdM": 9,
+    "qtdTotal": 88
+  },
+  {
+    "codigo": "7191770",
+    "nome": "SISTEMAS DE INFORMAÇÃO",
+    "nomeUnid": "CENTRO DE  ENSINO SUPERIOR DO SERIDÓ",
+    "idUnid": "1482",
+    "qtdF": 10,
+    "qtdM": 44,
+    "qtdTotal": 54
+  },
+  {
+    "codigo": "2000158",
+    "nome": "TEATRO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES",
+    "idUnid": "442",
+    "qtdF": 26,
+    "qtdM": 16,
+    "qtdTotal": 42
+  },
+  {
+    "codigo": "5400",
+    "nome": "TÉCNICO DE MÚSICA (CANTO)",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 12,
+    "qtdM": 2,
+    "qtdTotal": 14
+  },
+  {
+    "codigo": "4970",
+    "nome": "TÉCNICO DE MÚSICA (INSTRUMENTO)",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 16,
+    "qtdM": 57,
+    "qtdTotal": 73
+  },
+  {
+    "codigo": "5401",
+    "nome": "TÉCNICO DE MÚSICA (REGÊNCIA)",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 0,
+    "qtdM": 2,
+    "qtdTotal": 2
+  },
+  {
+    "codigo": "94763016",
+    "nome": "TÉCNICO EM AGENTE COMUNITÁRIO DE SAÚDE",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 31,
+    "qtdM": 7,
+    "qtdTotal": 38
+  },
+  {
+    "codigo": "89236989",
+    "nome": "TECNICO EM AGROINDUSTRIA CORRESPONDENTE AO ENSINO MEDIO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 19,
+    "qtdM": 11,
+    "qtdTotal": 30
+  },
+  {
+    "codigo": "4746394",
+    "nome": "TECNICO EM AGROINDUSTRIA SUBSEQUENTE",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 8,
+    "qtdM": 7,
+    "qtdTotal": 15
+  },
+  {
+    "codigo": "97201468",
+    "nome": "TECNICO EM AGROPECUÁRIA CORRESPONDENTE AO ENSINO MÉDIO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 19,
+    "qtdM": 16,
+    "qtdTotal": 35
+  },
+  {
+    "codigo": "4746233",
+    "nome": "TECNICO EM AGROPECUARIA SUBSEQUENTE",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 15,
+    "qtdM": 16,
+    "qtdTotal": 31
+  },
+  {
+    "codigo": "97294724",
+    "nome": "TÉCNICO EM AQUICULTURA CORRESPONDENTE AO ENSINO MÉDIO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 25,
+    "qtdM": 11,
+    "qtdTotal": 36
+  },
+  {
+    "codigo": "4769895",
+    "nome": "TECNICO EM AQUICULTURA SUBSEQUENTE",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 4,
+    "qtdM": 3,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "179237291",
+    "nome": "TÉCNICO EM ÁUDIO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 4,
+    "qtdM": 7,
+    "qtdTotal": 11
+  },
+  {
+    "codigo": "170723080",
+    "nome": "TÉCNICO EM CUIDADOS DE IDOSOS",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 37,
+    "qtdM": 8,
+    "qtdTotal": 45
+  },
+  {
+    "codigo": "146100906",
+    "nome": "TÉCNICO EM GASTRONOMIA SUBSEQUENTE",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 21,
+    "qtdM": 13,
+    "qtdTotal": 34
+  },
+  {
+    "codigo": "89237318",
+    "nome": "TECNICO EM INFORMATICA CORRESPONDENTE AO ENSINO MEDIO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 5,
+    "qtdM": 22,
+    "qtdTotal": 27
+  },
+  {
+    "codigo": "165679324",
+    "nome": "TÉCNICO EM VETERINÁRIA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 19,
+    "qtdM": 11,
+    "qtdTotal": 30
+  },
+  {
+    "codigo": "168398850",
+    "nome": "TÉCNICO EM VIGILÂNCIA EM SAÚDE",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 29,
+    "qtdM": 11,
+    "qtdTotal": 40
+  },
+  {
+    "codigo": "92127264",
+    "nome": "TECNOLOGIA DA INFORMAÇÃO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 51,
+    "qtdM": 291,
+    "qtdTotal": 342
+  },
+  {
+    "codigo": "2000069",
+    "nome": "TURISMO",
+    "nomeUnid": "CENTRO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "idUnid": "443",
+    "qtdF": 46,
+    "qtdM": 28,
+    "qtdTotal": 74
+  },
+  {
+    "codigo": "2000071",
+    "nome": "TURISMO",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 3,
+    "qtdM": 4,
+    "qtdTotal": 7
+  },
+  {
+    "codigo": "6358080",
+    "nome": "ZOOTECNIA",
+    "nomeUnid": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+    "idUnid": "605",
+    "qtdF": 23,
+    "qtdM": 14,
+    "qtdTotal": 37
+  }
+]

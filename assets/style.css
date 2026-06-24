@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --cor-primaria:     #00071b;
+    --cor-primaria-hover: #001d3f;
+    --cor-secundaria:   #3f8978;
+    --cor-destaque:     #f59e0b;
+ 
+    --cor-fundo:        #f0f0f0;
+
+    --cor-grafico-1:    #000615;
+    --cor-grafico-2:    #ee2853;
+    
+    --cor-texto-primario: #0f172a;
+    --cor-texto-secundario: #1e293b;
+    --cor-texto-suave:  #64748b;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+main{
+    max-width: 100%;
+    margin: 0 auto;
+    flex: 1;                
+    margin-right: 8%;
+    margin-left: 8%;
+    justify-items: center;
+    padding: 20px;
+    font-family: "Fira Sans", sans-serif;
+}
+
+header{
+    padding: 20px;
+    background-color: var(--cor-primaria);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+h1{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 64px;
+}
+
+nav, ul{
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+}
+
+nav, a{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--cor-texto-suave);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover{
+    color: #ee2853;
+}
+
+h2{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+}
+
+h3{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-family: "Fira Sans", sans-serif;
+    max-width: 98%;
+    font-size: 24px;
+    color: var(--cor-texto-secundario);
+}
+
+#sobre{
+    display: flex;
+    padding: 30px;
+    max-width: 1500px;
+    /* background-color: #f3f3f3;
+    border-radius: 25px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2); */
+    height: auto;
+}
+
+#comparador{
+    padding: 30px;
+    width: 100%;
+    background-color: var(--cor-fundo);
+    border-radius: 20px;
+    box-shadow:inset 0 4px 4px rgba(0, 0, 0, 0.2);
+    max-width: 1200px;
+    /* background-image: url(https://static.vecteezy.com/system/resources/previews/001/269/772/non_2x/top-view-of-a-gray-concrete-surface-free-photo.jpg); */
+}
+
+footer{
+    padding: 20px;
+    background-color: #00071b;
+    color: rgb(255, 202, 102);
+}
+
+#selecionar-restricoes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.item-comparar{
+    padding: 10px;
+    /* border: 2px solid black; */
+    font-family: "Fira Sans", sans-serif;
+    max-width: 100%;
+    font-size: 18px;
+    padding: 10px;
+
+}
+
+label{
+    color: var(--cor-texto-suave);
+}
+
+/* CÓDIGO ADAPTADO DE https://freefrontend.com/css-select-boxes/ */
+select {
+  appearance: none;
+  font-family: "Fira Sans", sans-serif;
+  font-size: 16px;
+  display: flex;
+  max-height: 50px;
+  justify-content: space-between;
+  min-width: 100px;
+  align-items: center;
+  color: black;
+  padding-block: 10px;
+  padding-inline: 20px 30px;
+  border-radius: 15px;
+  border: 4px solid #1D201D;
+  cursor: pointer;
+  background: #C7CCC7
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='%23000' class='size-6'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='m19.5 8.25-7.5 7.5-7.5-7.5' /%3E%3C/svg%3E%0A")
+    right 15px center / 20px no-repeat;
+
+  @supports (appearance: base-select) {
+    appearance: base-select;
+    padding-inline: 20px;
+    background-image: none;
+
+    &::picker(select) {
+      appearance: base-select;
+    }
+
+    &::picker-icon {
+      content: "";
+      width: 20px;
+      height: 20px;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='%23000' class='size-6'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='m19.5 8.25-7.5 7.5-7.5-7.5' /%3E%3C/svg%3E%0A");
+      transition: rotate 0.2s ease-out;
+    }
+
+    &:open::picker-icon {
+      rotate: 180deg;
+    }
+
+    &::picker(select) {
+      padding: 0;
+      margin-top: 5px;
+      border: 4px solid #1D201D;
+      background: #C7CCC7;
+      border-radius: 10px;
+    }
+
+    option {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+      padding: 10px;
+      gap: 10px;
+      border-top: 1px solid #444;
+      font-family: "Fira Sans", sans-serif;
+
+      &:where(:hover, :focus, :active) {
+        background: #4B534B;
+        color: white;
+        font-weight: bold;
+      }
+
+      &:checked {
+        background: #50C878;
+        color: white;
+        font-weight: bold;
+      }
+
+      &::checkmark {
+        display: none;
+      }
+    }
+
+    selectedcontent {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  }
+}
+
+button{
+    background-color: var(--cor-destaque);
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+button:hover{
+    background-color: var(--cor-grafico-2);
+    color: white;
+    transition: 0.3s;
+}
+
+#container-1, #container-2{
+    width: 400px;
+    padding: 20px;
+    background-color: rgba(129, 122, 108, 0.2);
+    border: 4px solid black;
+    border-radius: 20px;
+}
