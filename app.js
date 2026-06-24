@@ -50,6 +50,7 @@ document.getElementById('comparar').addEventListener('click', async () => {
             }
         });
     
+
         dep1.textContent = `Unidade Gestora:  ${curso1.nomeUnid}`;
     }
     else {
@@ -79,7 +80,7 @@ document.getElementById('comparar').addEventListener('click', async () => {
             }
         });
 
-        dep2.textContent = `Unidade Gestora:  ${curso2.nomeUnid}`;
+        dep2.textContent = `Unidade gestora: ${curso2.nomeUnid}`;
     }
     else {
         r21.textContent =  `HOMENS: ----`
